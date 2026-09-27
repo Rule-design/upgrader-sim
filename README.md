@@ -1,0 +1,2 @@
+# upgrader-sim
+CS 2 UPGRADER SİMÜLASYONU (GELMİŞ GEÇMİŞ EN BÜYÜK PROJEM!)

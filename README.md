@@ -6,7 +6,7 @@
 
 **CS2 Upgrader Simulation**, popüler CS2 skin yükseltme platformlarının mantığını birebir kopyalayan, ancak tamamen yerel ve risksiz bir ortamda sunan devasa bir simülasyondur. 
 
-Tek bir HTML dosyası olarak başlatılan bu proje, MIT App Inventor kullanılarak optimize edilmiş, ateşli bir Splash Screen (Açılış Ekranı) ile donatılmış ve **21.1 MB**'lık son derece hafif bir Android APK'sına dönüştürülmüştür. Amacım, yüksek kaliteli görselleri ve karmaşık matematiği en düşük boyutta, en akıcı şekilde sunmaktı.
+Tek bir HTML dosyası olarak başlatılan bu proje, MIT App Inventor kullanılarak optimize edilmiş, ateşli bir Splash Screen (Açılış Ekranı) ile donatılmış ve **20 - 25 MB**'lık son derece hafif bir Android APK'sına dönüştürülmüştür. Amacım, yüksek kaliteli görselleri ve karmaşık matematiği en düşük boyutta, en akıcı şekilde sunmaktı.
 
 ##  Özellikler
 

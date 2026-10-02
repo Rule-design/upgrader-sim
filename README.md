@@ -10,11 +10,11 @@ Tek bir HTML dosyası olarak başlatılan bu proje, MIT App Inventor kullanılar
 
 ##  Özellikler
 
-- 🗡️ **750+ Skin Koleksiyonu:** Silahlar, Bıçaklar ve Eldivenler kategorilerinde devasa bir veri tabanı.
+- 🗡️ **1500+ Skin Koleksiyonu:** Silahlar, Bıçaklar ve Eldivenler kategorilerinde devasa bir veri tabanı.
 - 🧮 **Gerçekçi Upgrader Matematiği:** `Olasılık = Seçilen Skin Coin ÷ Hedef Skin Coin × 100` formülü ile birebir site mantığı.
 - 🔥 **Efsanevi Splash Screen:** Uygulama açılırken sizi karşılayan, yüksek kaliteli ateş ve kıvılcım animasyonlu intro.
 - 🎒 **Envanter ve Mağaza Ekosistemi:** Başlangıç sermayesi ile skin kasma, mağazadan alışveriş ve envanter yönetimi.
-- ⚡ **Maksimum Optimizasyon:** 376 skin ve yüksek kaliteli animasyonlara rağmen sadece 20 - 25 MB APK boyutu.
+- ⚡ **Maksimum Optimizasyon:** 1500 skin ve yüksek kaliteli animasyonlara rağmen sadece 20 - 25 MB APK boyutu.
 -  **Çoklu Platform:** Hem PC (.exe) hem de Android (APK) olarak sorunsuz çalışır.
 
 ## 🛠️ Kullanılan Teknolojiler

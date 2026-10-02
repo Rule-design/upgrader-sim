@@ -15,7 +15,7 @@ Tek bir HTML dosyası olarak başlatılan bu proje, MIT App Inventor kullanılar
 - 🔥 **Efsanevi Splash Screen:** Uygulama açılırken sizi karşılayan, yüksek kaliteli ateş ve kıvılcım animasyonlu intro.
 - 🎒 **Envanter ve Mağaza Ekosistemi:** Başlangıç sermayesi ile skin kasma, mağazadan alışveriş ve envanter yönetimi.
 - ⚡ **Maksimum Optimizasyon:** 376 skin ve yüksek kaliteli animasyonlara rağmen sadece 20 - 25 MB APK boyutu.
--  **Çoklu Platform:** Hem Web (HTML/JS) hem de Android (APK) olarak sorunsuz çalışır.
+-  **Çoklu Platform:** Hem PC (.exe) hem de Android (APK) olarak sorunsuz çalışır.
 
 ## 🛠️ Kullanılan Teknolojiler
 
